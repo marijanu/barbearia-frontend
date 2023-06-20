@@ -1,0 +1,13 @@
+header{
+    background-color: lightpink;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 50px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
